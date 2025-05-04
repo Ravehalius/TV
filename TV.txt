@@ -1,0 +1,4 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 group-title="Tv Nasional",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
