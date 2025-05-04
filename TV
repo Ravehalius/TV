@@ -1,13 +1,132 @@
-#EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 group-title="TV Nasional",ANTV
-http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 group-title="TV Nasional",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="TV Nasional",MDTV
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBVy12T_qiTIDQkd5Y0LiHIyK3JpdEXFs2qwQ330J4LbQfAOQTm4jnN24gou9Q8VP3YqF19mccPKgH9ybFW4TeKHS0TC4ewKS-M0K_bckcHJyVRFiWToEXo8b5IqG3j_ss797r6CV4h3grIK71Hy6bkNbDDd2pWwKzrwEPpCh8600lxyB8kCYQ8pELbzU/s1000/Proyek%20Baru.jpg" group-title="TV Nasional",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+ANTV,http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+INDOSIAR 1,http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+INDOSIAR 2,https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Indosiar.m3u8
+INDOSIAR 3,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
+INDOSIAR 4,http://filex.tv:8080/live/aftab123/004090/302264.m3u8
+INDOSIAR LIGA,https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+MNC TV 1,https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+MNC TV 2,https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+RCTI 1,https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+RCTI 2,https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+SCTV,http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+METRO TV,http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+KOMPAS TV,http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+TVRI,https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+TRANS 7,https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+GLOBAL TV,https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+TRANS TV,https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+CNN INDONESIA,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+TV ONE,http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+INEWS,https://allcutv.rctiplus.id/inews2023.m3u8
+RTV,http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+NET TV 1,http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+NET TV 2,https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
+NET TV 3,http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
+MOJI TV,http://xtv.ooo:8080/30912088/60996054/350997
+MOJI TV 2,https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+MOJI TV 3,https://mantul.biz.id:443/inetwork/gayanet12/8251
+MOJI TV 4,http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+BTV,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+NUSANTARA TV,https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+BN CHANNEL,https://flv.intechmedia.net/live/ch112.m3u8
+IDTV,https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+VTV,https://flv.intechmedia.net/live/ch107.m3u8
+DAAI,https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+INDONESIANA TV,https://tvstreamcast.com/indonesiana.m3u8
+GARUDA TV,https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+Mentari TV,https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+MAGNA CHANNEL,https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+INSPIRA TV,https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+TV KESEHATAN,https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+BALIKPAPAN TV,https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3u8
+BANDUNG TV,http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+JAWAPOS TV,https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
+JTV,https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+NATUNA TV,https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+PADANG TV,http://63b2dc7196c38.streamlock.net:1935/ch16/myStream/playlist.m3u8
+PJTV,https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+PON TV,https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w1512074302.m3u8
+PSJ TV,https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+RCTV CIREBON,https://v10.siar.us/rctv/live/playlist.m3u8
+SAKTI TV,https://saktitv.siar.us/saktitv/live/playlist.m3u8
+SIMPANG 5 TV,http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
+SMTV SUMEDANG,http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
+SURABAYA TV,https://e.siar.us/live/surabayatv.m3u8
+DW,http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+TV DESA,https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
+TABALONG TV,https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+UGTV,https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+AFB TV,https://flv.intechmedia.net/live/ch54.m3u8
+MADU TV,https://re1.siar.us/madutv/hd720/playlist.m3u8
+KSTV,https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+KAWANUA TV,https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w1055048719.m3u8
+DHOHO TV,https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+LINGKAR TV,https://lingkartv.my.id/hls/lingkartv.m3u8
+SANGAJI TV,https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+PRIMA TV,https://primatv.siar.us/primatv/live/playlist.m3u8
+BANTEN TV,https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+AKTV,https://e.siar.us/live/aktv.m3u8
+JITV,https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1252882926.m3u8
+BUNGO TV,https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+TIMOR TV,https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+TVRI WORLD,https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+DUTA TV,https://dutatv.siar.us/dutatv/live/playlist.m3u8
+DMTV MALANG,https://e.siar.us/live/dmtv.m3u8
+BMSTV,https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+JOGJA TV,https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+SEMARANG TV,http://116.254.112.74:80/hls/cakralive.m3u8
+PKTV,https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+BANJAR TV,https://banjartv.siar.us/banjartv/live/playlist.m3u8
+BE TV,https://flv.intechmedia.net/live/ch58.m3u8
+JAYA TV,https://flv.intechmedia.net/live/ch52.m3u8
+BATAM TV,http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
+DHAMMA TV,https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+JAMBI TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+JEK TV,https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+PAL TV,https://flv.intechmedia.net/live/ch18.m3u8
+RADAR TV TASIKMALAYA,https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+RBTV,https://flv.intechmedia.net/live/ch59.m3u8
+RIAU TV,https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
+SAMPIT TV,https://flv.intechmedia.net/live/ch56.m3u8
+TEGAR TV,http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+MQTV,https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+TV 9,https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+MAKKAH TV,https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+DEI KIDS 1,https://e.siar.us/live/deikidstv.m3u8
+TV10,https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+RODJA,https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
+RODJA 2,https://rodjatv.com/rodjatv/live.m3u8
+BRTV,https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+WESAL TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+ARTVISI AUDIO,https://streaming.yufid.com/hls/artvisi.m3u8
+MADANI TV,https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+SALING SAPA TV,https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+TV SUNNAH,https://streaming.yufid.com/hls/radiokitatv.m3u8
+ASHIL TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+SURAU TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+NIAGA TV,https://ams.juraganstreaming.com:5443/LiveApp/streams/niagatv.m3u8
+ASTRO AL-HIJRAH,https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+ASTRO OASIS,http://iptv12k.com:35461/654321/123456/11291
+NAJIYA TV,https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCO4twEoisQIhNFqU1Sjyr0Q
+RADIO ZIKIR PAGI,https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.mp3
+RADIO ZIKIR PETANG,https://ia600309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirSore_hiss_reduce.mp3
+RADIO MUSLIM JOGJA,https://streaming.radiomuslim.com/;?1736409962231
+RADIO RODJA,https://radioislamindonesia.com/rodja-low.mp3?_=1
+RADIO KITA CIREBON,https://sunnah.radio.yufid.com/;stream.mp3
+RADIO RUKYAH,https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
+RADIO QUR'AN INDO,https://stream-47.zeno.fm/agv8w1xp1uhvv?zs=1ePJ9DYIT6KWrd2_cc08sg
+RADIO DEI FM,https://live.radiodeifm.com/8118/stream;?1736405447503
+RADIO HIJRAH FM,https://streaming.hijrahfm.com/;?1736409831439
+RADIO AL-IMAN,https://radioislamindonesia.com/aliman.mp3?_=2
+RADIO TARBIYAH SUNNAH,https://radioislamindonesia.com/tarbiyah.mp3?_=1
+RADIO HANG,http://185.47.62.52:8000/
+RADIO SYIAR TAUHID ACEH,http://45.64.97.82:8260/;
+RADIO TAFSIR AL-QUR'AN,http://206.72.199.179:9992/
+RADIO KSA SUNNAH,https://radiosunna.radioca.st/stream
+RADIO SUNNAH,http://pu.klikhost.com:7204/stream?1672828237600
+RADIO SAHABAT,https://radioislamindonesia.com/shahabatmuslim.mp3
+RADIO AR-RISALAH,https://pu.klikhost.com/proxy/dasa/stream
+RADIO INSANI,https://insanifm.radio.yufid.com/;?1736397847718
+RADIO HIDAYAH,https://radioislamindonesia.com/radiohidayah.mp3
+RADIO RJFM,https://a4.siar.us:8230/rjfm
